@@ -2,7 +2,10 @@
 
 This repository contains the source code for a Zumo32U4 battle bot. The code supports two control modes: automatic and manual. In automatic mode, the robot navigates in an arena and detects other object, such as another robot. In manual mode, the user can control the robot's movements using commands sent through the serial interface.
 
+The repository also contains a GUI for controlling the battle bot using Processing. The GUI communicates with the battle bot via XBee modules.
+
 ## Installation
+### Arduino IDE
 
 * Install the Arduino IDE on your computer.
 * Install the Zumo32U4 library by following the instructions in the library's README file.
@@ -10,6 +13,14 @@ This repository contains the source code for a Zumo32U4 battle bot. The code sup
 * Open the Arduino IDE, and open the provided .ino file.
 * Select the appropriate board and port in the Arduino IDE (Tools > Board > Pololu A-Star 32U4 > Zumo32U4).
 * Upload the code to the robot by clicking the "Upload" button in the Arduino IDE.
+
+### GUI
+* Install Processing (version 3.5.4 or higher) on your computer.
+* Install the necessary libraries for the project by navigating to Sketch > Import Library > Add Library in the Processing IDE. Search for and install the following libraries:
+ * Processing.serial
+ * G4P (GUI for Processing)
+* Clone this repository or download the source code.
+* Open the BattleBotGUI.pde file in the Processing IDE.
 
 Links:
 * ArduinoIDE: https://www.arduino.cc/en/software
