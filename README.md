@@ -53,3 +53,14 @@ In automatic mode, the robot navigates its environment, adjusting its movement b
 
 In manual mode, the robot responds to user commands sent through the serial interface.
 
+## References
+* https://www.pololu.com/blog/674/our-robot-battle-competition
+* https://www.robotshop.com/community/blog/show/pololu-zumo-robot-sumo-competition
+* https://pololu.github.io/zumo-32u4-arduino-library/index.html
+* https://www.pololu.com/category/170/zumo-32u4-oled-robot
+* https://www.pololu.com/product/2506
+* http://www.lagers.org.uk/g4p/
+* https://www.digi.com/products/embedded-systems/rf-modules/2-4-ghz-modules/xbee-series-1-module
+* https://en.wikipedia.org/wiki/Robot_combat
+
+
