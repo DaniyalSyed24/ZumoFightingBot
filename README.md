@@ -17,8 +17,8 @@ The repository also contains a GUI for controlling the battle bot using Processi
 ### GUI
 * Install Processing (version 3.5.4 or higher) on your computer.
 * Install the necessary libraries for the project by navigating to Sketch > Import Library > Add Library in the Processing IDE. Search for and install the following libraries:
- * Processing.serial
- * G4P (GUI for Processing)
+  * Processing.serial
+  * G4P (GUI for Processing)
 * Clone this repository or download the source code.
 * Open the BattleBotGUI.pde file in the Processing IDE.
 
