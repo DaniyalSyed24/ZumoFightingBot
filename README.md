@@ -25,6 +25,7 @@ The repository also contains a GUI for controlling the battle bot using Processi
 Links:
 * ArduinoIDE: https://www.arduino.cc/en/software
 * Zumo32U4 library: https://github.com/pololu/zumo-32u4-arduino-library
+* Processing: https://processing.org/download
 
 ## Running the program
 * Power on the Zumo bot
