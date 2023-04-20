@@ -58,4 +58,5 @@ In manual mode, the robot responds to user commands sent through the serial inte
 * https://www.pololu.com/category/170/zumo-32u4-oled-robot
 * https://www.pololu.com/product/2506
 * http://www.lagers.org.uk/g4p/
+* https://github.com/DaniyalSyed24/SearchAndRescueZumoBot
 
