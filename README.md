@@ -12,6 +12,8 @@ This repository contains the source code for a Zumo32U4 battle bot. The code sup
 * Upload the code to the robot by clicking the "Upload" button in the Arduino IDE.
 
 Links:
+
 ArduinoIDE: https://www.arduino.cc/en/software
+
 Zumo32U4 library: https://github.com/pololu/zumo-32u4-arduino-library
 
