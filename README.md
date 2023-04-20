@@ -19,5 +19,25 @@ Links:
 * Power on the Zumo bot
 * Creata a serial connection between the robot and your computer, using 9600.
 * Send commands to control the robot.
-  * automatic mode
-  * manual mode
+  * Press '1' for automatic mode
+  * Press '2' for manual mode
+
+## Manual Mode Commands
+
+* 'z': Move forward
+* 's': Move backward
+* 'q': Turn left
+* 'd': Turn right
+* '5': Stop
+* '8': Attack (move forward quickly)
+* '4': Spin left
+* '6': Spin right
+
+## Code Overview
+
+The code initializes the Zumo32U4 motors, line sensors, proximity sensors, and buzzer. It then enters a loop that continuously checks for serial input to switch between automatic and manual modes. The robot's behavior in each mode is controlled by the autoMode() and manualMode() functions.
+
+In automatic mode, the robot navigates its environment, adjusting its movement based on the readings from its line and proximity sensors. It can also detect and follow an object, such as another robot.
+
+In manual mode, the robot responds to user commands sent through the serial interface.
+
