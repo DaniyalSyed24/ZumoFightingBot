@@ -16,5 +16,8 @@ Links:
 * Zumo32U4 library: https://github.com/pololu/zumo-32u4-arduino-library
 
 ## Running the program
-
-
+* Power on the Zumo bot
+* Creata a serial connection between the robot and your computer, using 9600.
+* Send commands to control the robot.
+  * automatic mode
+  * manual mode
